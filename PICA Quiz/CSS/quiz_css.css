@@ -1,0 +1,19 @@
+.container
+{
+  width: 60%;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+a.start
+{
+  display: inline-block;
+  color: #666;
+  border: 1px dotted #000;
+  padding: 6px 13px;
+}
+
+li
+{
+  list-style: none;
+}
